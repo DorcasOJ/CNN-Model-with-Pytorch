@@ -1,5 +1,5 @@
-# CNN-Model-with-Pytorch
-Model MNIST Digit Dataset with Pytorch
+# CNN-Model-with-Pytorch-Notebook
+Modelling MNIST Digit Dataset with Pytorch in jupyter notebook
 
 # Datasets
 - Pytorch MNIST Digit Dataset
